@@ -34,7 +34,7 @@ THEN I am presented with the last searched city forecast
 
 The following image demonstrates the application functionality:
 
-![weather dashboard demo](./Assets/06-server-side-apis-homework-demo.png)
+![2021-10-17](https://user-images.githubusercontent.com/87809505/137634605-9e370385-3fc8-47f0-a29a-9ea5303d8d75.png)
 
 ## Review
 
